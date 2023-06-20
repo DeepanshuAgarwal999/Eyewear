@@ -194,7 +194,7 @@ h1{
 .card:hover{
     transition: 1s ease-in-out;
     transition-duration: .5s;
-    transform: translateY(-40px);
+    transform: scale(1.06);
 }
 .card>a{
     font-family: poppins;
